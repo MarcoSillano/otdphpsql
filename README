@@ -4,7 +4,6 @@ producing reports including text, tables, images in almost any format (odt, doc,
 <p> <i> All Reports can be defined or updated at run-time, using only a $templateArray
 (stored in a database table) as descriptor of all Fields, Blocks, Images and queries.</i></p>   
 
-
 <h2>How to create your template</h2>
 
 <p> The Report template file is build using OpenOffice, '.odt', and can contains Field, Block, Image tags
